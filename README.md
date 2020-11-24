@@ -3,6 +3,6 @@ This is a simple virtual Drum kit player made which can be played virtually with
   
 To play the Drum kit you can simply tap the drum images by tapping it or by pressing the keys shown on the drum kit images using your keyboard .
 
-Play the drum virtually <a href="https://badalsherpa.github.io/Drum-kit-Game/"> 🥁 click here to play 🥁 </a> 
+Play the drum virtually <a style="text-decoration:none" href="https://badalsherpa.github.io/Drum-kit-Game/"> 🥁 click here to play 🥁 </a> 
 
 # Have fun
